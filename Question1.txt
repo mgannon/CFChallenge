@@ -1,0 +1,47 @@
+1) How many pennies could you put on the Golden Gate Bridge without any of them overlapping?
+
+Thought process:
+
+	When analyzing the problem, I realized that the question itself is vague, and needs clarifications.
+I then decided to make hypothetical situations and discuss my methods to get a solution based on those assumptions.
+
+	The first word I believed needed to be defined was the word "overlap".  Was this implying that they could not lie on top
+of eachother, or did this mean that their volumes could not overlap?  Did a penny on its side, perfectly perpendicular to the ground,
+and another penny perpendicular to that penny stacked on top of it qualify as overlapping?  Many such questions occured to me.
+
+	Another thing I belived needed more clarity was the idea of being "on" the golden gate bridge.  Did this mean that each penny had to be
+physically touching the bridge?  could a string of pennies be glued together and then hung off the support cables?  Could another such string 
+be hung from the bottom of the bridge and still count?  
+
+
+
+	And then there is the assumption that each penny is the mint-sized coin of currency native to the US with the value of one cent, 
+but it would be ridiculous to have any other type of penny for this problem, so I'm just going to assume this is true.
+
+
+
+Now based on some of these questions, some backround info needs to be found.  Things like:
+-How long is the golden gat bridge?
+-How long is it on the hottest day? (because the metal of the bridge expands with heat)
+-what is the total length of all support cables combined?
+-What is the radius of each support cable?
+-what is the total surface area of the bridge? (including the underside, and all service walkways)
+-what is the weight capacity for the golden gate bridge? (for the assumption that "overlapping is defined as volume may 
+	not overlap, and in that case, the limit of stacking pennies on the Golden Gate bridge is really 
+	limited most by the weight it can support)
+-What is the weight of a penny to a ridiculous amount of accuracy? (for the above reason)
+-what is the radius of a penny?
+-what is the thickness of a penny?
+
+
+After researching all these things, I would apply the knowledge to the appropriate assumptions and come up with the proper calculations for each.
+
+
+Because there are so many variations of these, which all depend on your interpretation of the question, I'll suply the default answer of "how many pennies can you put edge to edge across
+the span of the golden gate bridge, without any adhesives, and based on the average length of the bridge.
+
+
+(Length of golden gate bridge)x(width of golden gate bridge)/((2*radius of penny)^2)  = # of pennies that can fit on the golden gate bridge without overlap.
+
+
+*note: the reason I supplied all the assumtions and research steps I would take was because I wanted to express how the problem could change drastically if different interpretations were taken. 

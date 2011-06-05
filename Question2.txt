@@ -1,0 +1,23 @@
+2) Our images have a ratio of 16:9, and our design layouts have 12 pixel wide increments 
+(there are no limits on height). Give examples of three image sizes that would have the 
+correct ratio and would fit the design layout.
+
+The answer to this is simple, and requires very little calculations on the part of the programmer.
+To get the answer, use he tools one has already, namely an image editor like photoshop or GIMP.
+
+-start with a 1600x900 pixel image (since this was the first image size of that ratio that came to mind)
+-lock the ratio of pixels, and then rescale it a few times to get several answers
+
+And poof! you're done!
+
+Some sample image sizes, limited by units of 12 are:
+
+1200x675
+
+240x135
+
+720x405
+
+
+
+One of the greatest attributes of programmers: they are lazy.  (which means you use whatever tools that are already created to help solve problems.)
