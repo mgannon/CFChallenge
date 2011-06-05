@@ -29,7 +29,7 @@ The files included in this submission are:
 	I thought it might catch the attention of some people at the offices.)
 
 
-Note: I would like to make it clear that the concept for solving the knights tour problem came from wikipedia's page ont he topic, and that I take
+Note: I would like to make it clear that the concept for solving the knights tour problem came from wikipedia's page on the topic, and that I take
 no credit for the method in how to solve the problem.  What I do take credit for is translating that algorithm to my own code in java.
 
 PS: if I had more time, I would have made the program much nicer to read, and had inputs to indicate where you wish the knight to start at.
